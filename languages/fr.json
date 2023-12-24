@@ -14,7 +14,9 @@
         "Les runes me parlent...",
         "Une vision mystique m'indique que...",
         "Je perçois des vibrations autour de vous...",
-        "Les esprits me guident vers..."
+        "Les esprits me guident vers...",
+        "Dans la tapisserie du temps, un fil d'opportunité se distingue...",
+        "Je vois une convergence de chemins menant à une croisée des destins..."
     ],
     "revelations": [
         "Vous êtes présentement en train de lire ceci.",
@@ -35,7 +37,7 @@
         "Vous êtes sous l'influence de la gravité.",
         "Vous avez un jour de naissance.",
         "Vous avez déjà bu de l'eau dans votre vie.",
-        "Vous avez un nom qui vous sont associé.",
+        "Vous avez un nom qui vous êtes associé.",
         "Vous avez déjà marché sur la Terre.",
         "Vous avez des vêtements sur vous en ce moment.",
         "Vous avez déjà eu des conversations avec d'autres personnes.",
@@ -47,7 +49,16 @@
         "Le sommeil vous fatigue.",
         "Vous êtes nés entre 1750 et 2100",
         "Votre rythme cardiaque est supérieur à 0.",
-        "Vous avez déjà eu faim."
+        "Vous avez déjà eu faim.",
+        "Vous avez déjà été en présence d'objets inanimés.",
+        "Vous avez cligné des yeux plusieurs milliers de fois dans votre vie.",
+        "Vous avez déjà bu, que ce soit de l'eau ou autre chose.",
+        "Vous avez déjà utilisé des mots afin de communiquer.",
+        "Vous avez déjà eu des rêves pendant votre sommeil.",
+    
+        "Je vois des moments où vous devrez répondre 'oui' ou 'non' à une question.",
+        "Vous utiliserez les mots 'Au revoir' dans un futur proche.",
+        "Bientôt, vous vous souviendrez de quelque chose."
     ],
     "again-button": "Éblouissez-moi encore!"
 }
