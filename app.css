@@ -27,6 +27,8 @@ select {
 
 /*header*/
 header {
+position: relative;
+z-index: 9999;
 height: 50px;
 display:flex;
 justify-content: flex-end;
