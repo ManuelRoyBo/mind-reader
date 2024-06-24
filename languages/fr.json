@@ -55,10 +55,14 @@
         "Vous avez déjà bu, que ce soit de l'eau ou autre chose.",
         "Vous avez déjà utilisé des mots afin de communiquer.",
         "Vous avez déjà eu des rêves pendant votre sommeil.",
-    
         "Je vois des moments où vous devrez répondre 'oui' ou 'non' à une question.",
         "Vous utiliserez les mots 'Au revoir' dans un futur proche.",
-        "Bientôt, vous vous souviendrez de quelque chose."
+        "Bientôt, vous vous souviendrez de quelque chose.",
+        "Vos papilles gustatives sont stilumées par les saveurs.",
+        "Un monosourcil vous sera attribué dans un futur proche.",
+        "Vous regardez un écran.",
+        "L'avenir vous réserve quelque chose."
+
     ],
     "again-button": "Éblouissez-moi encore!"
 }
